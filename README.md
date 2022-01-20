@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gaurav kumar </h1>
-<h2 align="left">I'm 14 year old from india </h3>
+<h2 align="left">I'm 14 year old i code in python </h3>
 
 - 🌱 I’m currently learning **C++, Java for app development**
 
