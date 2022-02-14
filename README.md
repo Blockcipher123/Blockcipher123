@@ -5,6 +5,8 @@
 
 - Ask me about **coding :)**
 
+- Currently working on interesting **web project**
+
 <!-- - 📫 How to reach me **blockcipher1@gmail.com** -->
 
 <!-- my coding skills -->
