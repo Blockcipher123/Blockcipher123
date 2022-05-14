@@ -6,6 +6,7 @@
 - Ask me about **coding :)**
 
 - Currently working on interesting **web project**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
 
 <!-- - 📫 How to reach me **blockcipher1@gmail.com** -->
 
