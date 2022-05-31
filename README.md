@@ -4,11 +4,11 @@
 
 <p align="center">I’m currently learning <b>C++, Java for app development</b></p>
 
-- Ask me about **coding :)**
+<p align="center">Ask me about <b> coding :)</b></p>
 
 
-- Currently working on interesting **web project**
-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Blockcipher123&label=Profile%20views&color=0e75b6&style=flat" alt="Blockcipher123" /> </p>
+<p align="center">Currently working on interesting <b> web project </b></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Blockcipher123&label=Profile%20views&color=0e75b6&style=flat" alt="Blockcipher123" /> </p>
 
 <!-- - 📫 How to reach me **blockcipher1@gmail.com** -->
 <!-- ![download](https://user-images.githubusercontent.com/84004110/168849818-6bf63ef0-1331-4add-999f-3dc828dc0319.jpg) -->
