@@ -1,9 +1,10 @@
-<h1 align="left">Hi 👋, I'm Gaurav kumar </h1>
-<h2 align="left">I'm 14 year old i code in python </h3>
+<h1 align="left">Hi 👋, I'm Gaurav kumar </h1> <img align="center" src="https://user-images.githubusercontent.com/84004110/171232830-622ede35-b7a7-4733-9b87-db1632288ddd.jpg">
+<h2 align="left">I'm 14 year old i code in python </h3> 
 
 - I’m currently learning **C++, Java for app development**
 
 - Ask me about **coding :)**
+
 
 - Currently working on interesting **web project**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blockcipher123&label=Profile%20views&color=0e75b6&style=flat" alt="Blockcipher123" /> </p>
