@@ -33,14 +33,10 @@
 <a href="https://discord.gg/4B9YGCHzEn" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4B9YGCHzEn" height="30" width="40" /></a>
 </p>
 
-
 <br>
-
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<!-- <h3 align="center">Connect with me:</h3> -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blockcipher123&show_icons=true&locale=en&layout=compact" alt="blockcipher123" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=blockcipher123&show_icons=true&locale=en" alt="blockcipher123" /></p>
+<br>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blockcipher123&show_icons=true&locale=en&layout=compact" alt="blockcipher123" /></p>
+<br>
+<br>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=blockcipher123&show_icons=true&locale=en" alt="blockcipher123" /></p>
  
