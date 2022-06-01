@@ -24,9 +24,8 @@
 	<a href="https://atcoder.jp/users/Block_Cipher" target="blank"><img align="left" src="https://user-images.githubusercontent.com/84004110/151791825-70a97e8b-da29-445f-ba13-e13ae4adaeab.png" alt="https://atcoder.jp/users/Block_Cipher" height="35" width="40"/></a>
 	<a href="https://www.codeabbey.com/index/user_profile/block_cipher" target="blank"><img align="left" src="https://user-images.githubusercontent.com/84004110/151793264-e80e9b7a-c8b9-471d-a5c0-4cf0f55b60d9.jpg" alt="https://www.codeabbey.com/index/user_profile/block_cipher" height="35" width="40"/></a>
 
-
-
 </p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
