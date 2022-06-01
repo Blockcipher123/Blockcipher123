@@ -2,10 +2,15 @@
 <p><h2 align="center">I'm 14 year old i code in python </h2></p>
 
 
-<img class='imgs' align="right" borderRadius="50%" src="https://user-images.githubusercontent.com/84004110/171232830-622ede35-b7a7-4733-9b87-db1632288ddd.jpg">
+<!-- <img class='imgs' align="right" borderRadius="50%" src="https://user-images.githubusercontent.com/84004110/171232830-622ede35-b7a7-4733-9b87-db1632288ddd.jpg"> -->
+<img class='imgs' align="right" borderRadius="50%" src="https://user-images.githubusercontent.com/84004110/171457736-befa2813-232d-4bb2-b5bf-8b23744c348e.jpg">
 <!-- <p align="center">I’m currently learning <b>C++, Java for app development</b></p> -->
 
+
+<!-- https://user-images.githubusercontent.com/84004110/171457736-befa2813-232d-4bb2-b5bf-8b23744c348e.jpg -->
+
 <p align="left">Ask me about <b> coding :)</b></p>
+
 
 
 <!-- <p align="left">Currently working on interesting <b> web project </b></p> -->
