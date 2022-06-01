@@ -27,7 +27,7 @@
 
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/blockcipherr/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/blockcipherr/" height="30" width="40" /></a>
 <a href="https://discord.gg/4B9YGCHzEn" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4B9YGCHzEn" height="30" width="40" /></a>
