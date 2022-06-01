@@ -10,7 +10,7 @@
 <p align="center">Ask me about <b> coding :)</b></p>
 
 
-<p align="center">Currently working on interesting <b> web project </b></p>
+<!-- <p align="center">Currently working on interesting <b> web project </b></p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Blockcipher123&label=Profile%20views&color=0e75b6&style=flat" alt="Blockcipher123" /> </p>
 
 <!-- - 📫 How to reach me **blockcipher1@gmail.com** -->
