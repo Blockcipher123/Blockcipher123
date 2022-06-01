@@ -3,7 +3,7 @@
 
 
 <img class='imgs' align="right" borderRadius="50%" src="https://user-images.githubusercontent.com/84004110/171232830-622ede35-b7a7-4733-9b87-db1632288ddd.jpg">
-<p align="center">I’m currently learning <b>C++, Java for app development</b></p>
+<!-- <p align="center">I’m currently learning <b>C++, Java for app development</b></p> -->
 
 <p align="center">Ask me about <b> coding :)</b></p>
 
@@ -28,10 +28,10 @@
 
 </p>
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/blockcipherr/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/blockcipherr/" height="30" width="40" /></a>
-<a href="https://discord.gg/4B9YGCHzEn" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4B9YGCHzEn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/blockcipherr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/blockcipherr/" height="30" width="40" /></a>
+<a href="https://discord.gg/4B9YGCHzEn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4B9YGCHzEn" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="center">Languages and Tools:</h3>
