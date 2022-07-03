@@ -9,8 +9,6 @@
 <!-- ![anime3]() -->
 
 
-<!-- https://user-images.githubusercontent.com/84004110/171457736-befa2813-232d-4bb2-b5bf-8b23744c348e.jpg -->
-
 <p align="left">Ask me about <b> coding :)</b></p>
 
 
