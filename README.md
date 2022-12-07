@@ -1,6 +1,7 @@
 
 
 ```bash
-  print("Gaurav Kumar")
+  print("Hii, I'm Gaurav kumar")
+  print("I'm High School Student")
 ```
 
