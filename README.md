@@ -40,6 +40,4 @@
 
 <br>
 <br>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blockcipher123&show_icons=true&locale=en&layout=compact" alt="blockcipher123" /></p>
-<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=blockcipher123&show_icons=true&locale=en" alt="blockcipher123" /></p>
- 
+
